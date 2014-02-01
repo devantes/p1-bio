@@ -2,3 +2,14 @@ body {
 background: orange;
 
 }
+
+ul li {
+display: inline-block;
+background-color: blue;
+background-repeat: no-repeat;
+background-size: 100% 120%;
+width: 12rem;
+box-shadow: 4px 0 2px white;
+position: relative;
+overflow: hidden;
+}
