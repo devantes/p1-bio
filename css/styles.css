@@ -1,8 +1,13 @@
 body {
-background: orange;
-background-image: url('colorful.jpg');
+background-image: url('https://lh4.googleusercontent.com/-t1PnmDGdi4Y/Uuxj9MIk1SI/AAAAAAAAADE/xt1hRNSDSHs/w478-h720-no/colorful.jpg');
 
 }
+
+p {
+	color:white;
+}
+
+
 
 ul li {
 display: inline-block;
