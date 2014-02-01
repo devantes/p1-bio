@@ -3,7 +3,7 @@ background-image: url('https://lh4.googleusercontent.com/-t1PnmDGdi4Y/Uuxj9MIk1S
 
 }
 
-p {
+p, h1, h2, h3 {
 	color:white;
 }
 
