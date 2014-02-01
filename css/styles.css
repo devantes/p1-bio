@@ -1,5 +1,6 @@
-body {
-background-image: url('https://lh4.googleusercontent.com/-t1PnmDGdi4Y/Uuxj9MIk1SI/AAAAAAAAADE/xt1hRNSDSHs/w478-h720-no/colorful.jpg');
+body {	
+background-image: url('https://lh4.googleusercontent.com/-t1PnmDGdi4Y/Uuxj9MIk1SI/AAAAAAAAADE/xt1hRNSDSHs/w478-h720-no/colorful.jpp');
+
 
 }
 
@@ -34,4 +35,11 @@ margin-left:-.5rem;
 padding: 1.25rem 2.5rem;
 
 }
+
+h1, h2, h3, p {
+
+	background-color: black;
+}
+
+
 
