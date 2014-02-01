@@ -41,7 +41,20 @@ h1, h2, h3, p {
 	background-color: black;
 }
 
-p {
+h1 {
+
+	text-align: center;
+}
+
+.passion {
 	font-family: 'Nunito', sans-serif;
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+h2 {
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	letter-spacing: 3px;
+	text-align: center;
 }
 
