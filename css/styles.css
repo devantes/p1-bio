@@ -13,3 +13,17 @@ box-shadow: 4px 0 2px white;
 position: relative;
 overflow: hidden;
 }
+
+ul li a {
+display: inline-block;
+background: blue;
+text-decoration: none;
+letter-spacing: .40rem;
+text-shadow: 4px 4px 4px 5px black;
+color: #fff;
+width: 10rem;
+margin-left:-.5rem;
+padding: 1.25rem 2.5rem;
+
+}
+
