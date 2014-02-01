@@ -10,31 +10,9 @@ p, h1, h2, h3 {
 
 
 
-ul li {
-display: inline-block;
-background-color: blue;
-background-repeat: no-repeat;
-background-size: 100% 120%;
-width: 12rem;
-box-shadow: 4px 0 2px white;
-position: relative;
-overflow: hidden;
 
 
-}
 
-ul li a {
-display: inline-block;
-background: blue;
-text-decoration: none;
-letter-spacing: .40rem;
-text-shadow: 4px 4px 4px 5px black;
-color: #fff;
-width: 10rem;
-margin-left:-.5rem;
-padding: 1.25rem 2.5rem;
-
-}
 
 h1, h2, h3, p {
 
@@ -42,9 +20,11 @@ h1, h2, h3, p {
 }
 
 h1 {
+	background-color: black;
 	font-family: 'Sonsie One', cursive;
-
+	font-size: 50px;
 	text-align: center;
+	height: 20rem;
 }
 
 .passion {
@@ -52,7 +32,15 @@ h1 {
 	font-size: 18px;
 	letter-spacing: 2px;
 }
+.words {
+	background: black;
+	text-align: center;
+	padding-top:5rem;
+
+	}
+
 h2 {
+	background-color: black;
 	font-family: 'Nunito', sans-serif;
 	font-size: 25px;
 	letter-spacing: 3px;
