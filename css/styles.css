@@ -9,14 +9,20 @@ p, h1, h2, h3 {
 }
 
 
-
 h1 {
-	background-color: black;
+	
 	font-family: 'Sonsie One', cursive;
-	font-size: 50px;
+	font-size: 75px;
 	text-align: center;
 	padding: 5rem;
-	border: 5px solid white;
+	border: 5px solid rgba(255, 0, 0, 1)  ;
+	
+
+}
+
+.me {
+	background-image: url("https://scontent-b-sea.xx.fbcdn.net/hphotos-frc3/t1/270488_10150236954770745_5160165_n.jpg") ;
+	background-repeat: no-repeat;
 
 }
 
@@ -26,11 +32,13 @@ h1 {
 	letter-spacing: 2px;
 	padding:1rem;
 	text-align: center;
+
 }
 .words {
 	background: black;
 	text-align: center;
 	padding: 5rem;
+	border-top: 2px solid white;
 	
 
 
@@ -71,6 +79,7 @@ text-align: center;
 padding:2rem;
 margin: -1rem;
 margin-top: 4rem;
+box-shadow: 2px 2px 2px 2px yellow;
 }
 
 .minor {border-bottom: 2px solid white;
@@ -78,6 +87,7 @@ background-color: black;
 text-align: center;
 padding:2rem;
 margin: -1rem;
+box-shadow: 2px 2px 2px 2px red;
 
 
 
@@ -88,6 +98,7 @@ background-color: black;
 text-align: center;
 padding:2rem;
 margin: -1rem;
+box-shadow: 2px 2px 2px 2px white;
 
 
 }
@@ -103,6 +114,16 @@ h2 {
 	padding:2rem;
 	
 
+}
+
+.div{
+  float: left;
+  margin: 10px;
+  width: 100px;
+  
+  width: 100px;
+  position: relative;
+  
 }
 
 
