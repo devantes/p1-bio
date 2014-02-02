@@ -25,6 +25,7 @@ h1 {
 	font-size: 18px;
 	letter-spacing: 2px;
 	padding:1rem;
+	text-align: center;
 }
 .words {
 	background: black;
@@ -39,13 +40,17 @@ h1 {
 	background-color: black;
 	padding:1rem;
 	padding-top: 2rem;
-	
+	margin-top: 1rem;
+	text-align: center;
 }	
 
 .film {
 
 	background-color: black;
 	padding:1rem;
+	margin-top: 1rem;
+	text-align: center;
+
 	
 }
 
@@ -53,6 +58,9 @@ h1 {
 
  background-color: black;
  padding:1rem;
+ margin-top: 1rem;
+ text-align: center;
+
 
 }
 .major {
