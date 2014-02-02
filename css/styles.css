@@ -4,27 +4,33 @@ background-image: url('https://lh4.googleusercontent.com/-t1PnmDGdi4Y/Uuxj9MIk1S
 
 }
 
-p, h1, h2, h3 {
+p, h2, h3 {
 	color:white;
 }
 
 
 h1 {
-	
+	color:black;
 	font-family: 'Sonsie One', cursive;
-	font-size: 75px;
-	text-align: center;
-	padding: 5rem;
-	border: 5px solid rgba(255, 0, 0, 1)  ;
+	font-size: 35px;
+	text-align: right;
+	padding: 5rem 10rem 15rem 0rem;
 	
-
+	line-height: 100px;
+	
 }
+
 
 .me {
 	background-image: url("https://scontent-b-sea.xx.fbcdn.net/hphotos-frc3/t1/270488_10150236954770745_5160165_n.jpg") ;
 	background-repeat: no-repeat;
+	background-size: 1000px 500px;
+
+box-shadow: 10px 5px 10px 5px black;
 
 }
+
+
 
 .passion {
 	font-family: 'Nunito', sans-serif;
@@ -32,6 +38,7 @@ h1 {
 	letter-spacing: 2px;
 	padding:1rem;
 	text-align: center;
+
 
 }
 .words {
