@@ -87,6 +87,7 @@ padding:2rem;
 margin: -1rem;
 margin-top: 4rem;
 box-shadow: 2px 2px 2px 2px yellow;
+font-size: 20px;
 }
 
 .minor {border-bottom: 2px solid white;
@@ -95,6 +96,7 @@ text-align: center;
 padding:2rem;
 margin: -1rem;
 box-shadow: 2px 2px 2px 2px red;
+font-size: 20px;
 
 
 
@@ -106,6 +108,7 @@ text-align: center;
 padding:2rem;
 margin: -1rem;
 box-shadow: 2px 2px 2px 2px white;
+font-size: 20px;
 
 
 }
@@ -123,15 +126,6 @@ h2 {
 
 }
 
-.div{
-  float: left;
-  margin: 10px;
-  width: 100px;
-  
-  width: 100px;
-  position: relative;
-  
-}
 
 
 
