@@ -10,21 +10,14 @@ p, h1, h2, h3 {
 
 
 
-
-
-
-
-h1, h2, h3, p {
-
-	background-color: black;
-}
-
 h1 {
 	background-color: black;
 	font-family: 'Sonsie One', cursive;
 	font-size: 50px;
 	text-align: center;
-	height: 20rem;
+	padding: 5rem;
+	border: 5px solid white;
+
 }
 
 .passion {
@@ -39,11 +32,32 @@ h1 {
 
 	}
 
+.visual {
+	background-color: black;
+}	
+
+.film {
+
+	background-color: black;
+}
+
+.photoshop {
+
+ background-color: black;
+}
+
 h2 {
 	background-color: black;
 	font-family: 'Nunito', sans-serif;
 	font-size: 25px;
 	letter-spacing: 3px;
 	text-align: center;
+	border-bottom: 2px solid white;
 }
+
+h3{
+	border-bottom: 2px solid white;
+background-color: black;
+}
+
 
