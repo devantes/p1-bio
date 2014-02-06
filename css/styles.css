@@ -3,7 +3,23 @@ body {
 
 }
 
+.who {
+
+	margin-top: -14rem;
+	font-size: 4rem;
+	line-height: 5.25rem;
+	white-space: pre;
+
+}
+
 .special {
 
-	position: right;
+	position: center;
 }
+
+.about {
+
+	
+	text-indent: 5px;
+}
+
