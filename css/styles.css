@@ -3,6 +3,7 @@ body {
 
 }
 
+
 .who {
 
 	margin-top: -3.5rem;
@@ -12,19 +13,19 @@ body {
 
 }
 
-.special {}
+
 
 
 
 .about {
 
-	
+
 	text-indent: 5px;
 }
 
-.major{
-	
+
+
+
+.showgrid {
+	background: url("../img/grid-bg.png");
 }
-
-
-
